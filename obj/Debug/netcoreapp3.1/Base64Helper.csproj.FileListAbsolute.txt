@@ -1,0 +1,13 @@
+D:\GitSepidarCo\Base64Helper\bin\Debug\netcoreapp3.1\Base64Helper.exe
+D:\GitSepidarCo\Base64Helper\bin\Debug\netcoreapp3.1\Base64Helper.deps.json
+D:\GitSepidarCo\Base64Helper\bin\Debug\netcoreapp3.1\Base64Helper.runtimeconfig.json
+D:\GitSepidarCo\Base64Helper\bin\Debug\netcoreapp3.1\Base64Helper.runtimeconfig.dev.json
+D:\GitSepidarCo\Base64Helper\bin\Debug\netcoreapp3.1\Base64Helper.dll
+D:\GitSepidarCo\Base64Helper\bin\Debug\netcoreapp3.1\Base64Helper.pdb
+D:\GitSepidarCo\Base64Helper\obj\Debug\netcoreapp3.1\Base64Helper.csprojAssemblyReference.cache
+D:\GitSepidarCo\Base64Helper\obj\Debug\netcoreapp3.1\Base64Helper.AssemblyInfoInputs.cache
+D:\GitSepidarCo\Base64Helper\obj\Debug\netcoreapp3.1\Base64Helper.AssemblyInfo.cs
+D:\GitSepidarCo\Base64Helper\obj\Debug\netcoreapp3.1\Base64Helper.csproj.CoreCompileInputs.cache
+D:\GitSepidarCo\Base64Helper\obj\Debug\netcoreapp3.1\Base64Helper.dll
+D:\GitSepidarCo\Base64Helper\obj\Debug\netcoreapp3.1\Base64Helper.pdb
+D:\GitSepidarCo\Base64Helper\obj\Debug\netcoreapp3.1\Base64Helper.genruntimeconfig.cache
